@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ 
+<Language>
+<!--Generic-->
+<menu.btn.Pauze>Pauze</menu.btn.Pauze>
+<menu.btn.Unpauze>Unpauze</menu.btn.Unpauze>
+<menu.btn.Back>Terug</menu.btn.Back>
+<menu.btn.Next>Volgende</menu.btn.Next>
+<menu.btn.Start>Start</menu.btn.Start>
+<menu.txt.Build>Versie: </menu.txt.Build>
+
+<!--Language-->
+<menu.btn.SupportedLanguage1>EN</menu.btn.SupportedLanguage1>
+<menu.btn.SupportedLanguage2>NL</menu.btn.SupportedLanguage2>
+
+<!--MainMenu-->
+<menu.btn.Lobby>Start</menu.btn.Lobby>
+<menu.btn.Load>Load</menu.btn.Load>
+<menu.btn.Save>Save</menu.btn.Save>
+<menu.btn.Help>Hulp</menu.btn.Help>
+<menu.btn.Settings>Instellingen</menu.btn.Settings>
+<menu.btn.FSM>Finite State Machine</menu.btn.FSM>
+<menu.btn.GameJolt>GameJolt</menu.btn.GameJolt>
+<menu.btn.LevelEditor>Level Editor</menu.btn.LevelEditor>
+<menu.btn.Quit>Afsluiten</menu.btn.Quit>
+<menu.btn.Credits>Credits</menu.btn.Credits>
+
+<!--GameJolt-->
+<menu.btn.Trophies>Trophies</menu.btn.Trophies>
+<menu.btn.Leaderboard>Leaderboard</menu.btn.Leaderboard>
+<menu.btn.Stats>Stats</menu.btn.Stats>
+<menu.txt.Username>Gebruikersnaam: </menu.txt.Username>
+<menu.txt.Password>Wachtwoord: </menu.txt.Password>
+<menu.btn.Login>Login</menu.btn.Login>
+<menu.btn.Cancel>Cancel</menu.btn.Cancel>
+<menu.txt.Rank>Rang</menu.txt.Rank>
+<menu.txt.Score>Punten</menu.txt.Score>
+
+<!---Settings-->
+<menu.btn.Audio>Audio</menu.btn.Audio>
+<menu.btn.Graphics>Graphics</menu.btn.Graphics>
+<menu.btn.Language>Taal</menu.btn.Language>
+
+<!--Audio-->
+<menu.sli.Master>Master Volume</menu.sli.Master>
+<menu.sli.Music>Muziek Volume</menu.sli.Music>
+<menu.sli.Sounds>Effect Volume</menu.sli.Sounds>
+
+<!--Graphics-->
+<menu.opl.ResolutionList>Resolutie: </menu.opl.ResolutionList>
+<menu.opl.QualityList>Kwaliteit: </menu.opl.QualityList>
+
+<!--Errors-->
+<menu.err.NotAvailable>Deze functie is niet beschikbaar in deze versie.</menu.err.NotAvailable>
+<game.error.overbuilding>Cannot build at this location.</game.error.overbuilding>
+<game.error.resourcefull>Warehous is fully stocked</game.error.resourcefull>
+<game.error.notvillageowner>You do not own this village</game.error.notvillageowner>
+<game.error.increasepowermana>Cannot increase power size no mana</game.error.increasepowermana>
+<game.error.increasepowersize>There is no bigger size</game.error.increasepowersize>
+<game.error.decreasepowersize>There is nog smaller size</game.error.decreasepowersize>
+<game.error.nomana>You don't have enough Mana.</game.error.nomana>
+<game.error.noresources>You don't have enough Resources</game.error.noresources>
+<game.error.cannotpickup>You cannot pickup objects inside the enemy village</game.error.cannotpickup>
+<game.message.powersizehelp>Use mouse scroll to increase/decrease the power in size</game.message.powersizehelp>
+<game.message.buildingrotate>Use right mouse button to rotate the building</game.message.buildingrotate>
+<game.error.login>Username or Password incorrect</game.error.login>
+
+<!--Dialog-->
+<menu.dia.Oke>Oke</menu.dia.Oke>
+<menu.dia.Close>Sluiten</menu.dia.Close>
+<menu.dia.Cancel>Annuleren</menu.dia.Cancel>
+
+<!--Lobby-->
+<lobby.btn.Host>Host Game</lobby.btn.Host>
+<lobby.btn.Client>Join Game</lobby.btn.Client>
+<lobby.btn.Ready>Ready</lobby.btn.Ready>
+<lobby.btn.Unready>Unready</lobby.btn.Unready>
+<lobby.btn.Remove>Remove</lobby.btn.Remove>
+
+<!--Powers-->
+<game.btn.Spawn1>Village 1</game.btn.Spawn1>
+<game.btn.Spawn2>Village 2</game.btn.Spawn2>
+<power.txt.Trees>Bomen</power.txt.Trees>
+<power.txt.Rocks>Stenen</power.txt.Rocks>
+<power.txt.Up>Omhoog</power.txt.Up>
+<power.txt.Down>Omlaag</power.txt.Down>
+<power.txt.Food>Voedsel</power.txt.Food>
+<power.txt.Cost>Mana:</power.txt.Cost>
+<power.txt.EffectTrees>Spawns trees</power.txt.EffectTrees>
+<power.txt.EffectRocks>Spawns rocks</power.txt.EffectRocks>
+<power.txt.EffectDown></power.txt.EffectDown>
+<power.txt.EffectUp></power.txt.EffectUp>
+<power.txt.EffectFood>Spawns bushes</power.txt.EffectFood>
+<power.txt.Effect>Effect:</power.txt.Effect>
+
+<!--Buildings-->
+<building.name.House>Huis</building.name.House>
+<building.name.House1>Huis1</building.name.House1>
+<building.name.Warehouse>Opslag</building.name.Warehouse>
+<building.name.Tavern>Kroeg</building.name.Tavern>
+<building.name.Barrack>Barak</building.name.Barrack>
+<building.name.Temple>Church</building.name.Temple>
+<building.name.Tower>Toren</building.name.Tower>
+<building.name.Sawmill>Sawmill</building.name.Sawmill>
+<building.name.Blacksmith>Blacksmith</building.name.Blacksmith>
+<building.name.Farm>Boerderij</building.name.Farm>
+<building.desc.House>Meer mensen</building.desc.House>
+<building.desc.House1>Meer mensen</building.desc.House1>
+<building.desc.Warehouse>Meer opslag</building.desc.Warehouse>
+<building.desc.Tavern>Bier!</building.desc.Tavern>
+<building.desc.Barrack>Meer soldaten</building.desc.Barrack>
+<building.desc.Temple>Meer mana</building.desc.Temple>
+<building.desc.Tower>Beschermt een bepaald punt</building.desc.Tower>
+<building.desc.Sawmill>Saws logs into planks</building.desc.Sawmill>
+<building.desc.Blacksmith>Produces iron from raw ore</building.desc.Blacksmith>
+<building.desc.Farm>Hier wordt voedsel voor je dorp gemaakt.</building.desc.Farm>
+
+<!--Resources-->
+<resource.name.Food>Voedsel:</resource.name.Food>
+<resource.name.Wood>Hout:</resource.name.Wood>
+<resource.name.Iron>Ijzer:</resource.name.Iron>
+<resource.name.Score>Score</resource.name.Score>
+<resource.name.Mana>Mana</resource.name.Mana>
+<resource.name.Villagers>Villagers / Soldiers / Total</resource.name.Villagers>
+<resources.name.Description>Omschrijving:</resources.name.Description>
+<resources.name.ResourceCosts>Cost / Income</resources.name.ResourceCosts>
+<resources.name.ResourceInfo>Upkeep / Income</resources.name.ResourceInfo>
+<resources.txt.Amount>Amount:</resources.txt.Amount>
+
+<!--Villager-->
+<villager.txt.Health>Leven:</villager.txt.Health>
+<villager.txt.Armor>Armor:</villager.txt.Armor>
+<villager.txt.Speed>Speed:</villager.txt.Speed>
+
+<!--EndGame-->
+<game.end.Title>Spel afgelopen</game.end.Title>
+<game.end.Won>Je hebt gewonnen</game.end.Won>
+<game.end.Lost>Je hebt verloren</game.end.Lost>
+<game.end.Player1>Speler 1:</game.end.Player1>
+<game.end.Player2>Speler 2:</game.end.Player2>
+
+</Language>

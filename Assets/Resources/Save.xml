@@ -1,0 +1,254 @@
+<Ameno>
+<Village>
+<Owner>0</Owner>
+<Food>190</Food>
+<Wood>90</Wood>
+<Iron>100</Iron>
+<Villagers>2</Villagers>
+<MaxVillagers>2</MaxVillagers>
+<Soldiers>0</Soldiers>
+<MaxSoldiers>0</MaxSoldiers>
+<Buildings>
+<Building>
+<Type>8</Type>
+<Position>(-135.0, 0.0, -14.5)</Position>
+<Rotation>(0.0, 0.0, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>1</Type>
+<Position>(-178.5, 0.0, -26.0)</Position>
+<Rotation>(0.0, 291.5, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>0</Type>
+<Position>(-117.5, 0.0, -66.5)</Position>
+<Rotation>(0.0, 103.4, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>0</Type>
+<Position>(-115.3, 0.0, -39.2)</Position>
+<Rotation>(0.0, 59.9, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>9</Type>
+<Position>(-195.8, 0.0, -46.9)</Position>
+<Rotation>(0.0, 28.8, 0.0)</Rotation>
+</Building>
+</Buildings>
+</Village>
+<Village>
+<Owner>1</Owner>
+<Food>190</Food>
+<Wood>90</Wood>
+<Iron>100</Iron>
+<Villagers>2</Villagers>
+<MaxVillagers>2</MaxVillagers>
+<Soldiers>0</Soldiers>
+<MaxSoldiers>0</MaxSoldiers>
+<Buildings>
+<Building>
+<Type>8</Type>
+<Position>(0.0, 0.0, 25.5)</Position>
+<Rotation>(0.0, 0.0, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>1</Type>
+<Position>(-43.5, 0.0, 14.0)</Position>
+<Rotation>(0.0, 291.5, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>0</Type>
+<Position>(17.5, 0.0, -26.5)</Position>
+<Rotation>(0.0, 103.4, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>0</Type>
+<Position>(19.7, 0.0, 0.8)</Position>
+<Rotation>(0.0, 59.9, 0.0)</Rotation>
+</Building>
+<Building>
+<Type>9</Type>
+<Position>(-60.8, 0.0, -6.9)</Position>
+<Rotation>(0.0, 28.8, 0.0)</Rotation>
+</Building>
+</Buildings>
+</Village>
+<Player>
+<Id>0</Id>
+<Mana>510</Mana>
+<Score>0</Score>
+</Player>
+<Player>
+<Id>1</Id>
+<Mana>510</Mana>
+<Score>0</Score>
+</Player>
+<TerrainObjects><Object>
+<Type>1</Type>
+<Amount>25</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(32.6, 1.2, 6.1)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-13.8, 0.0, 37.6)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>95</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-24.9, 0.0, 23.1)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-37.9, 0.0, 36.1)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-5.8, 0.0, -35.0)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-5.5, 0.0, -38.6)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-46.5, 0.0, 26.7)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>150</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-43.1, 0.0, -7.1)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>1</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-11.2, 0.0, -38.5)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>-1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-151.2, 0.0, 185.2)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>-1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-134.7, 0.0, 206.8)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>-1</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-149.2, 0.0, 149.3)</Position>
+</Object>
+<Object>
+<Type>1</Type>
+<Amount>25</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-102.4, 1.2, -33.9)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>95</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-148.8, 0.0, -2.4)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-159.9, 0.0, -16.9)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-172.9, 0.0, -3.9)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-140.8, 0.0, -75.0)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-140.5, 0.0, -78.6)</Position>
+</Object>
+<Object>
+<Type>0</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-181.5, 0.0, -13.3)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>150</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>1</Id>
+<Position>(-178.1, 0.0, -47.1)</Position>
+</Object>
+<Object>
+<Type>2</Type>
+<Amount>100</Amount>
+<Parent>0</Parent>
+<Age>10</Age>
+<Id>2</Id>
+<Position>(-146.2, 0.0, -78.5)</Position>
+</Object>
+</TerrainObjects></Ameno>
